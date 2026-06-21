@@ -443,13 +443,15 @@ If these templates help you, consider buying us a coffee!
 
 ## 🤝 Contributing
 
-Contributions are welcome! Here's how to help:
+Contributions are welcome! You can contribute in either way:
 
-1. **Add new templates** — Follow the existing format in `build_all.py`
-2. **Improve translations** — Help translate README to more languages
-3. **Fix bugs** — Report issues or submit PRs for formula fixes
+**Option 1 — Email us**
+📧 [support@planoranest.com](mailto:support@planoranest.com)
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+Share new templates, translations, improvements, or bug reports. We'll follow up by email.
+
+**Option 2 — Push to the repository**
+Fork this repo, make your changes, and push your branch (or open a Pull Request on GitHub).
 
 ---
 

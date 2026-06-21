@@ -1,53 +1,22 @@
 # Contributing to PlanoraNest Excel Templates
 
-Thank you for your interest in contributing! This project provides 240 free, open-source Excel templates for the community.
+Thank you for your interest in contributing!
 
 ## How to Contribute
 
-### 1. Adding New Templates
-- Follow the existing structure in `build_all.py`
-- Each template must include: Template sheet, Instructions sheet, About sheet
-- Use the helper functions in the generator script
-- Add the template to the appropriate category directory
+欢迎通过以下任一方式参与：
 
-### 2. Improving Existing Templates
-- Fix formula errors or bugs
-- Add more sample data rows
-- Improve formatting or layout
-- Enhance instruction content
+### 方式一：发邮件
 
-### 3. Translations
-- Help translate README files to more languages
-- Translate template instruction sheets
-- Add new locale-specific templates
+📧 **[support@planoranest.com](mailto:support@planoranest.com)**
 
-### 4. SEO & Documentation
-- Improve keyword coverage in KEYWORDS.md
-- Fix typos or grammar in documentation
-- Add category-specific README files
+可发送新模板、翻译、文档改进、问题反馈等，我们会通过邮件与您沟通。
 
-## Pull Request Process
+### 方式二：推送代码库
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-template`)
-3. Make your changes
-4. Test the template opens correctly in Excel, Google Sheets, and LibreOffice
-5. Commit with a descriptive message
-6. Push and create a Pull Request
-
-## Template Guidelines
-
-- Use clear, descriptive names
-- Include sample data (at least 3-5 rows)
-- Add formulas where applicable
-- Use consistent formatting (headers in navy #1F4E79)
-- Always include link to https://planoranest.com/ in About sheet
-- Write instructions in plain, accessible English
-- Add SEO keywords relevant to the template topic
-
-## Questions?
-
-Open an issue or contact us via https://planoranest.com/
+1. Fork 本仓库
+2. 在本地修改并提交
+3. 推送到你的分支，或在 GitHub 上发起 Pull Request
 
 ---
 
