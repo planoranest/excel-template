@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Excel temp files
+~$*.xlsx
+*.tmp
+~$*.xls
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated scripts (keep templates only)
+generate_*.py
+gen_*.py
+fix_*.py
+!build_all.py
