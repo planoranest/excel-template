@@ -410,6 +410,20 @@ MIT License — 详见 [LICENSE](LICENSE)
 
 ---
 
+## ☕ 支持本项目
+
+如果这些模板对您有帮助，欢迎请我们喝杯咖啡！
+
+<p align="center">
+  <a href="https://buymeacoffee.com/planonest">
+    <img src="assets/buymeacoffee-qr.png" alt="Buy Me a Coffee 二维码 — buymeacoffee.com/planonest" width="180">
+  </a>
+  <br><br>
+  <a href="https://buymeacoffee.com/planonest"><strong>buymeacoffee.com/planonest</strong></a>
+</p>
+
+---
+
 <p align="center">
   <strong>由 <a href="https://planoranest.com/">PlanoraNest</a> 倾心制作</strong><br>
   <sub>240个专业Excel模板 | MIT许可证 | 永久免费</sub>

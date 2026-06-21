@@ -427,6 +427,20 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
+## ☕ Support the Project
+
+If these templates help you, consider buying us a coffee!
+
+<p align="center">
+  <a href="https://buymeacoffee.com/planonest">
+    <img src="assets/buymeacoffee-qr.png" alt="Buy Me a Coffee QR Code — buymeacoffee.com/planonest" width="180">
+  </a>
+  <br><br>
+  <a href="https://buymeacoffee.com/planonest"><strong>buymeacoffee.com/planonest</strong></a>
+</p>
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how to help:
@@ -443,6 +457,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 - 🌐 **Website:** [https://planoranest.com/](https://planoranest.com/)
 - 📧 **Email:** support@planoranest.com
+- ☕ **Buy Me a Coffee:** [buymeacoffee.com/planonest](https://buymeacoffee.com/planonest)
 - 🐙 **GitHub Issues:** For bug reports and feature requests
 
 ---

@@ -363,6 +363,20 @@ cd excel-templates
 
 ---
 
+## ☕ プロジェクトを支援
+
+テンプレートが役に立ったら、コーヒー1杯のご支援をお願いします！
+
+<p align="center">
+  <a href="https://buymeacoffee.com/planonest">
+    <img src="assets/buymeacoffee-qr.png" alt="Buy Me a Coffee QRコード — buymeacoffee.com/planonest" width="180">
+  </a>
+  <br><br>
+  <a href="https://buymeacoffee.com/planonest"><strong>buymeacoffee.com/planonest</strong></a>
+</p>
+
+---
+
 ## ⚖️ ライセンス
 
 MIT License — [LICENSE](LICENSE)を参照

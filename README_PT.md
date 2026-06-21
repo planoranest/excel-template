@@ -362,6 +362,20 @@ cd excel-templates
 
 ---
 
+## ☕ Apoie o Projeto
+
+Se estes modelos ajudarem voce, nos pague um cafe!
+
+<p align="center">
+  <a href="https://buymeacoffee.com/planonest">
+    <img src="assets/buymeacoffee-qr.png" alt="QR Code Buy Me a Coffee — buymeacoffee.com/planonest" width="180">
+  </a>
+  <br><br>
+  <a href="https://buymeacoffee.com/planonest"><strong>buymeacoffee.com/planonest</strong></a>
+</p>
+
+---
+
 ## ⚖️ Licenca
 
 Licenca MIT — veja [LICENSE](LICENSE)
