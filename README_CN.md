@@ -1,6 +1,10 @@
 # 240个专业Excel模板 | PlanoraNest
 
 <p align="center">
+  🌐 <a href="README.md">English</a> · <a href="README_CN.md"><strong>中文</strong></a> · <a href="README_JP.md">日本語</a> · <a href="README_KR.md">한국어</a> · <a href="README_ES.md">Español</a> · <a href="README_FR.md">Français</a> · <a href="README_DE.md">Deutsch</a> · <a href="README_PT.md">Português</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/模板数量-240-blue?style=for-the-badge&logo=microsoft-excel">
   <img src="https://img.shields.io/badge/许可证-MIT-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/兼容-Excel%20|%20Google%20Sheets%20|%20LibreOffice-brightgreen?style=for-the-badge">
@@ -84,21 +88,6 @@ ls 01_Investment_Finance/
 ### 在 Google Sheets 中使用
 1. 上传到 Google Drive
 2. 右键 → 打开方式 → Google Sheets
-
----
-
-## 🌍 多语言支持
-
-| 语言 | 状态 |
-|------|------|
-| 🇺🇸 English | ✅ [README.md](README.md) |
-| 🇨🇳 中文 | ✅ 当前页面 |
-| 🇯🇵 日本語 | ✅ [README_JP.md](README_JP.md) |
-| 🇰🇷 한국어 | ✅ [README_KR.md](README_KR.md) |
-| 🇪🇸 Español | ✅ [README_ES.md](README_ES.md) |
-| 🇫🇷 Français | ✅ [README_FR.md](README_FR.md) |
-| 🇩🇪 Deutsch | ✅ [README_DE.md](README_DE.md) |
-| 🇵🇹 Português | ✅ [README_PT.md](README_PT.md) |
 
 ---
 

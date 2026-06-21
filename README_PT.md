@@ -1,6 +1,10 @@
 # 240 Modelos Profissionais de Excel | PlanoraNest
 
 <p align="center">
+  🌐 <a href="README.md">English</a> · <a href="README_CN.md">中文</a> · <a href="README_JP.md">日本語</a> · <a href="README_KR.md">한국어</a> · <a href="README_ES.md">Español</a> · <a href="README_FR.md">Français</a> · <a href="README_DE.md">Deutsch</a> · <a href="README_PT.md"><strong>Português</strong></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Modelos-240-blue?style=for-the-badge&logo=microsoft-excel">
   <img src="https://img.shields.io/badge/Licenca-MIT-green?style=for-the-badge">
 </p>

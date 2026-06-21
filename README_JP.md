@@ -1,6 +1,10 @@
 # 240のプロフェッショナルExcelテンプレート | PlanoraNest
 
 <p align="center">
+  🌐 <a href="README.md">English</a> · <a href="README_CN.md">中文</a> · <a href="README_JP.md"><strong>日本語</strong></a> · <a href="README_KR.md">한국어</a> · <a href="README_ES.md">Español</a> · <a href="README_FR.md">Français</a> · <a href="README_DE.md">Deutsch</a> · <a href="README_PT.md">Português</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/テンプレート-240-blue?style=for-the-badge&logo=microsoft-excel">
   <img src="https://img.shields.io/badge/ライセンス-MIT-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/対応-Excel%20|%20Google%20Sheets%20|%20LibreOffice-brightgreen?style=for-the-badge">

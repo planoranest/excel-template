@@ -1,6 +1,10 @@
 # 240개의 전문가용 Excel 템플릿 | PlanoraNest
 
 <p align="center">
+  🌐 <a href="README.md">English</a> · <a href="README_CN.md">中文</a> · <a href="README_JP.md">日本語</a> · <a href="README_KR.md"><strong>한국어</strong></a> · <a href="README_ES.md">Español</a> · <a href="README_FR.md">Français</a> · <a href="README_DE.md">Deutsch</a> · <a href="README_PT.md">Português</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/템플릿-240-blue?style=for-the-badge&logo=microsoft-excel">
   <img src="https://img.shields.io/badge/라이선스-MIT-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/호환-Excel%20|%20Google%20Sheets%20|%20LibreOffice-brightgreen?style=for-the-badge">
